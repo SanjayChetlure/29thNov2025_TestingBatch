@@ -15,6 +15,5 @@ public class TestUpCasting
       f.money();
       f.home();
 //      f.mobile();
-
     }
 }
