@@ -1,5 +1,5 @@
 package S3_Array;
-public class Ex2_IntArray
+public class Ex1_IntArray
 {
     public static void main(String[] args)
     {
