@@ -10,7 +10,7 @@ public class Ex1_CharArray
         ar[2]='D';
         ar[3]='A';
 
-        System.out.println(ar[3]);
+        System.out.println(ar[3]);      //A
 
         System.out.println("---Print all data----");
 

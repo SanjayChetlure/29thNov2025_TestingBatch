@@ -24,5 +24,6 @@ public class Ex4_SwapDataInArray
         {
             System.out.println(ar[i]);
         }
+
     }
 }

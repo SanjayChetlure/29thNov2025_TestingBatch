@@ -10,9 +10,6 @@ public class Ex1_IntArray
         ar[2]=101;
         ar[3]=102;
 
-//        int temp=ar[0];
-//        ar[0]=ar[2];
-//        ar[2]=temp;
 
         System.out.println(ar[3]);    //102
         System.out.println(ar.length);
