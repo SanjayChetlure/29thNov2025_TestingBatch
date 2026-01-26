@@ -9,6 +9,26 @@ public class Sample2
         String s3="abcd";
         String s4="my name is abc";
         String s5="abcd";
+        String s6="abcabca";
+        String s7=" xyz abc ";
+
+
+        System.out.println(s7.trim());
+        System.out.println(s7);
+
+        System.out.println("----");
+        System.out.println(s2.concat(s3));     //ABCDabcd
+        System.out.println(s2+s3);            //ABCDabcd
+
+        System.out.println(s1.substring(3,6));            //oci
+        System.out.println(s1.substring(4));      //city
+
+        System.out.println("-----");
+        System.out.println(s6.lastIndexOf('b'));   //4
+        System.out.println(s6.indexOf('b'));    //1
+        System.out.println(s1.charAt(1));       //e
+
+        System.out.println("------------------------------");
 
         System.out.println(s1.length());
 
