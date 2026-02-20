@@ -19,6 +19,5 @@ public class Pattern5
         star++;                        //4
         System.out.println();
     }
-
     }
 }
