@@ -21,6 +21,7 @@ public class Ex1_Arraylist
         System.out.println(V.size());       //7
         System.out.println(V.isEmpty());    //fVse
         System.out.println(V.get(2));
+        System.out.println(V.contains(101));
 
         //update info
         V.set(5,"Amit");
