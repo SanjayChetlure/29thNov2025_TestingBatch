@@ -2,7 +2,6 @@ package S3_Collection;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 
-
 public class Ex5_LinkedHashSet
 {
     public static void main(String[] args)
