@@ -1,5 +1,5 @@
 package S3_LogicalProgram;
-public class Ex4_ReversePalindrome
+public class Ex4_StringPalindrome
 {
     public static void main(String[] args)
     {
